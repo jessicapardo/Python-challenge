@@ -1,6 +1,6 @@
 # Python-challenge
 
-## Background
+### Background
 
 Welcome to the world of programming with Python. In this assignment, two Python Challenges will be completed: PyBank and PyPoll.
 
@@ -23,10 +23,11 @@ The Python script will analyzes the records and calculate each of the following:
   * The greatest decrease in losses (date and amount) over the entire 
   period
 
-## Results
+### Results
 
-Python script: PyBank/main.py
-Results: PyBank/Analysis/PyBankResults.txt
+  * Python script: PyBank/main.py
+  
+  * Results: PyBank/Analysis/PyBankResults.txt
 
  ```text
 Financial Analysis
@@ -40,7 +41,7 @@ Greatest Decrease in Profits: Sep-2013 ($-1196225)
 
 ## PyPoll
 
-![Vote-counting](Images/Vote-counting.png)
+![Vote-counting](Images/Vote_counting.png)
 
 In this challenge,the Python script will be helping a small, rural town modernize its vote counting process using a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.
 
@@ -56,10 +57,11 @@ The Python script will analyzes the votes and calculate each of the following:
 
   * The winner of the election based on popular vote.
 
-## Results
+### Results
 
-Python script: PyPoll/main.py
-Results: PyPoll/Analysis/PyPollResults.txt
+  * Python script: PyPoll/main.py
+
+  * Results: PyPoll/Analysis/PyPollResults.txt
 
  ```text
 Election Results
